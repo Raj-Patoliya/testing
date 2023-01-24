@@ -1,3 +1,2 @@
-Hello World
-
-second text file in repo
+Everyday may not be good day 
+but there is something is good in everyday
